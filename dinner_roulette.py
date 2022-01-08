@@ -1,7 +1,7 @@
 import random
 
 food_choices = ['Chicken Parm', 'American Chop Suey ', 'Chicken Fajitas', 'Lemon Pepper Chicken', 'Sheperds Pie',
-                'Beef Stew', 'Stuffed Peppers']
+                'Beef Stew', 'Stuffed Peppers', 'Cereal']
 
 dinner_sides = ['Roasted Potatoes', 'Tater Tots', 'Green Beans', 'Cauliflower Rice', 'Corn', 'Mixed Vegetables']
 
